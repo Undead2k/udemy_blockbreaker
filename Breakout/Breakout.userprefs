@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Paddle.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Brick.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\ball.cs" Line="11" Column="4" />
+      <File FileName="Assets\Scripts\LoseCollider.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\Paddle.cs" Line="43" Column="3" />
+      <File FileName="Assets\Scripts\temp_totalbrinks.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
